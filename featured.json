@@ -17,7 +17,7 @@
   "diva-steth.enzyme.community": {
     "faviconUrl": "diva_steth.png",
     "title": "Diva",
-    "url": "https: //diva-steth.enzyme.community/vault/0x1ce8aafb51e79f6bdc0ef2ebd6fd34b00620f6db?currency=ETH"
+    "url": "https://diva-steth.enzyme.community/vault/0x1ce8aafb51e79f6bdc0ef2ebd6fd34b00620f6db?currency=ETH"
   },
   "app.teleswap.xyz": {
     "faviconUrl": "https://app.teleswap.xyz/favicon.ico",
@@ -25,12 +25,12 @@
     "url": "https://app.teleswap.xyz"
   },
   "teleordinal.xyz": {
-    "faviconUrl": "https: //teleordinal.xyz/favicon.ico",
+    "faviconUrl": "https://teleordinal.xyz/favicon.ico",
     "title": "TeleOrdinal",
     "url": "https://teleordinal.xyz"
   },
   "shop.uquid.com": {
-    "faviconUrl": "https: //cdn.jsdelivr.net/gh/uquid/libs@1.0.4.2/shop/assets/about_assets/images/fav-icon/icon.png",
+    "faviconUrl": "https://cdn.jsdelivr.net/gh/uquid/libs@1.0.4.2/shop/assets/about_assets/images/fav-icon/icon.png",
     "title": "Uquid",
     "url": "https://shop.uquid.com/?_182fcbcbbba3e870aa882b23413af531=a963b2739ed259998de98c982805e016"
   }
