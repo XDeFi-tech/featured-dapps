@@ -1,0 +1,37 @@
+{
+  "app.xdefi.io": {
+    "faviconUrl": "https://app.xdefi.io/favicon.ico",
+    "title": "XDEFI",
+    "url": "https://app.xdefi.io"
+  },
+  "opensea.io": {
+    "faviconUrl": "uri_opensea.png",
+    "title": "OpenSea",
+    "url": "https://opensea.io"
+  },
+  "app.eddy.finance": {
+    "faviconUrl": "eddy_finance.png",
+    "title": "EddyFinance",
+    "url": "https://app.eddy.finance"
+  },
+  "diva-steth.enzyme.community": {
+    "faviconUrl": "diva_steth.png",
+    "title": "Diva",
+    "url": "https: //diva-steth.enzyme.community/vault/0x1ce8aafb51e79f6bdc0ef2ebd6fd34b00620f6db?currency=ETH"
+  },
+  "app.teleswap.xyz": {
+    "faviconUrl": "https://app.teleswap.xyz/favicon.ico",
+    "title": "TeleSwap",
+    "url": "https://app.teleswap.xyz"
+  },
+  "teleordinal.xyz": {
+    "faviconUrl": "https: //teleordinal.xyz/favicon.ico",
+    "title": "TeleOrdinal",
+    "url": "https://teleordinal.xyz"
+  },
+  "shop.uquid.com": {
+    "faviconUrl": "https: //cdn.jsdelivr.net/gh/uquid/libs@1.0.4.2/shop/assets/about_assets/images/fav-icon/icon.png",
+    "title": "Uquid",
+    "url": "https://shop.uquid.com/?_182fcbcbbba3e870aa882b23413af531=a963b2739ed259998de98c982805e016"
+  }
+}
