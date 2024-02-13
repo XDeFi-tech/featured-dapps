@@ -5,17 +5,17 @@
     "url": "https://app.xdefi.io"
   },
   "opensea.io": {
-    "faviconUrl": "uri_opensea.png",
+    "faviconUrl": "https://raw.githubusercontent.com/XDeFi-tech/featured-dapps/main/images/opensea.png",
     "title": "OpenSea",
     "url": "https://opensea.io"
   },
   "app.eddy.finance": {
-    "faviconUrl": "eddy_finance.png",
+    "faviconUrl": "https://raw.githubusercontent.com/XDeFi-tech/featured-dapps/main/images/eddy.svg",
     "title": "EddyFinance",
     "url": "https://app.eddy.finance"
   },
   "diva-steth.enzyme.community": {
-    "faviconUrl": "diva_steth.png",
+    "faviconUrl": "https://raw.githubusercontent.com/XDeFi-tech/featured-dapps/main/images/diva_steth.svg",
     "title": "Diva",
     "url": "https://diva-steth.enzyme.community/vault/0x1ce8aafb51e79f6bdc0ef2ebd6fd34b00620f6db?currency=ETH"
   },
