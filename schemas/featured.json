@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "patternProperties": {
+    "^[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)+$": {
+      "type": "object",
+      "properties": {
+        "faviconUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": ["faviconUrl", "title", "url"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
