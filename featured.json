@@ -34,4 +34,10 @@
     "title": "Uquid",
     "url": "https://shop.uquid.com/?_182fcbcbbba3e870aa882b23413af531=a963b2739ed259998de98c982805e016"
   }
+   },
+  "app.zetaearn.com": {
+    "faviconUrl": "https://raw.githubusercontent.com/XDeFi-tech/featured-dapps/main/images/zetaearn_icon.svg",
+    "title": "ZetaEarn",
+    "url": "https://app.zetaearn.com/"
+  }
 }
